@@ -18,7 +18,7 @@ License -> https://github.com/BXBotz/DC-Tracker/blob/main/LICENSE
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/BXBotz/DC-Tracker">
+<a href="https://heroku.com/deploy?template=https://github.com/Esumo253/DC-Tracker.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
