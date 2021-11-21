@@ -21,10 +21,10 @@ async def start(bot, update):
         quote=True
     )
 
-START_TEXT = """🎸 Your Telegram DC Is : `{}`"""
+START_TEXT = """❤️ Ваш Telegram DC: `{}`"""
 START_BUTTON = InlineKeyboardMarkup(
              [[
-             InlineKeyboardButton('♻️ Updates Channel ♻️', url=f"https://telegram.me/{Config.UPDATE_CHANNEL}")
+             InlineKeyboardButton('♻️ Обновления канала ♻️', url=f"https://telegram.me/{Config.UPDATE_CHANNEL}")
              ]]
         )
 
